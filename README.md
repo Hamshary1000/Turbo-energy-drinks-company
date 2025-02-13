@@ -29,7 +29,8 @@ Turbo survey Database structure as seen below consists of three table: city, Res
 - **Table 4:**
 - **Table 5:**
 
-[Assets/Data model.jpg]
+![Data Model](Assets/Data Model.jpg)
+
 
 
 
