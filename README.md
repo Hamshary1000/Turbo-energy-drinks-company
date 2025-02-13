@@ -1,29 +1,29 @@
-Welcome to the sample GitHub ReadME! Use this template as an outline for your data analytics projects. Include one ReadME per repository, with each repository storing one project. Remember, it's better to have quality over quantity - having 2 stellar business-relevant projects stands out much more than 3+ mediocre projects. Feel free to make a copy of this or fork this repository and make it your own. Happy portfolio-ing :) 
-
-
-
-
 # Project Background
-Backround about the company, including the industry, active years, business model, and key business metrics. Explain this from the POV of a data analyst who is working at the company.
+
+Turbo is a French beverage company that is aiming to make its mark in the Egyptian market. A few months ago, they launched their energy drink in 10 cities in egypt
+The Marketing team is responsible for increasing brand awareness, market share, and product development.
+They conducted a survey in those 10 cities and received results from 10k respondents.
+
 
 Insights and recommendations are provided on the following key areas:
 
-- **Category 1:** 
-- **Category 2:** 
-- **Category 3:** 
-- **Category 4:** 
+- **Demographic Insights:** Preferences by gender, age group and cities.
+- **Brand Awareness:** percentage of heard, tried  before, reason preventing from trying, and health concerns.
+- **Competition Analysis:** other brands popularity and reasons for choosing them.
+- **Consumer Preferences:** reviews, pereception, Preferred times ,situations  and frequencies.
+- **•Product Development:** prefered improvements, ingredients expected and packaging preferences. 
+- **Targeting Criteria:** targeted price range, marketing channels and locations. 
+ 
 
-The SQL queries used to inspect and clean the data for this analysis can be found here [link].
+The Python Notebook used to inspect, clean and analyze the data can be found here [link].
 
-Targed SQL queries regarding various business questions can be found here [link].
-
-An interactive Tableau dashboard used to report and explore sales trends can be found here [link].
+A pdf of a Power Bi dashboard used to report can be found here [link].
 
 
 
 # Data Structure & Initial Checks
 
-The companies main database structure as seen below consists of four tables: table1, table2, table3, table4, with a total row count of X records. A description of each table is as follows:
+Turbo survey Database structure as seen below consists of three table: city, Respondents, Survey Response, with a total row count of 10,000 records. A description of each table is as follows:
 - **Table 2:**
 - **Table 3:**
 - **Table 4:**
