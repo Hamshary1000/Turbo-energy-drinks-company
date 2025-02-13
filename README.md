@@ -25,7 +25,7 @@ A pdf of a Power Bi dashboard used to report can be found here [link].
 
 Turbo survey Database structure as seen below consists of three table: city, Respondents, Survey Response, with a total row count of 10,000 records. A description of each table is as follows:
 
-![Data Model](Assets/Datamodel.jpg)
+![Data Model](Assets/Data_model.jpg)
 
 
 
