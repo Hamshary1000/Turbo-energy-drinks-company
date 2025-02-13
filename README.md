@@ -24,10 +24,6 @@ A pdf of a Power Bi dashboard used to report can be found here [link].
 # Data Structure & Initial Checks
 
 Turbo survey Database structure as seen below consists of three table: city, Respondents, Survey Response, with a total row count of 10,000 records. A description of each table is as follows:
-- **Table 2:**
-- **Table 3:**
-- **Table 4:**
-- **Table 5:**
 
 ![Data Model](Assets/Datamodel.jpg)
 
@@ -37,11 +33,10 @@ Turbo survey Database structure as seen below consists of three table: city, Res
 # Executive Summary
 
 ### Overview of Findings
+Turbo's launch in Egypt is off to a decent start, with almost half (44%) of those surveyed knowing the brand already.  Most of the people who answered the survey were men (60%), so Turbo might need to find ways to connect better with women.  They seem to be doing well in the big cities like Cairo and Alexandria, where most people live, but they should think about how to reach people in other cities too.  Young adults are their main customers right now, which is normal for energy drinks, but there's a good number of slightly older folks (31-45 years old) who might also be interested.  Finally, it looks like online ads are working best for them, and since most people are buying in the 50–150-pound range, Turbo needs to keep prices reasonable
+The entire interactive dashboard can be found here [link]
 
-Explain the overarching findings, trends, and themes in 2-3 sentences here. This section should address the question: "If a stakeholder were to take away 3 main insights from your project, what are the most important things they should know?" You can put yourself in the shoes of a specific stakeholder - for example, a marketing manager or finance director - to think creatively about this section.
-
-[Visualization, including a graph of overall trends or snapshot of a dashboard]
-
+![Data Model](Assets/Datamodel.jpg)
 
 
 # Insights Deep Dive
