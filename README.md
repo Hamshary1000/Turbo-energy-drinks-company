@@ -42,13 +42,13 @@ The entire interactive dashboard can be found here [link]
 # Insights Deep Dive
 ### Demographic Insights:
 
-* **Main insight 1.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+* **Majority Male.** Out of 10 thousand respondents, 60% of the consumers are male who prefer energy drinks more.
   
-* **Main insight 2.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+* **Young Adult Dominance:.** The largest age group represented is 19-30 (55%) but If we look at overall young age groups from 15 to 30, then the Percentage  will rise to 70%.
   
-* **Main insight 3.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+* **Concentrated in Major Cities** The survey show us that 61% of the respondents are from big cities like Cairo, Alexandria and Giza .
   
-* **Main insight 4.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+* **Tier.** A significant 75% of respondents are classified as Tier 2.
 
 [Visualization specific to category 1]
 
