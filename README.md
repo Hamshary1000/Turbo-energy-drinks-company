@@ -36,11 +36,11 @@ Turbo survey Database structure as seen below consists of three table: city, Res
 Turbo's launch in Egypt is off to a decent start, with almost half (44%) of those surveyed knowing the brand already.  Most of the people who answered the survey were men (60%), so Turbo might need to find ways to connect better with women.  They seem to be doing well in the big cities like Cairo and Alexandria, where most people live, but they should think about how to reach people in other cities too.  Young adults are their main customers right now, which is normal for energy drinks, but there's a good number of slightly older folks (31-45 years old) who might also be interested.  Finally, it looks like online ads are working best for them, and since most people are buying in the 50–150-pound range, Turbo needs to keep prices reasonable
 The entire interactive dashboard can be found here [link]
 
-![Data Model](Assets/Datamodel.jpg)
+![overview](Assets/Overview.jpg)
 
 
 # Insights Deep Dive
-### Category 1:
+### Demographic Insights:
 
 * **Main insight 1.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
   
