@@ -67,7 +67,7 @@ The biggest barrier to trial is availability (24%), indicating a distribution is
   
 * **Reasons For Choosing Brands.** Consumers choose energy drinks based on several key factors. Brand reputation (26.52%) is the top driver, meaning TurboX must build trust and a strong image. Taste (20.11%) is also crucial, so offering appealing flavors is essential. Availability (19.10%) highlights the need for better distribution. Effectiveness (17.48%) matters too—TurboX must prove it delivers energy and focus. Lastly, Other factors (16.79%) need further analysis to understand additional influences on consumer choice..
 
-[Visualization specific to category 2]
+![Brand_Awarness](Assets/Brand_Awarness.jpg)
 
 
 ### Category 3:
@@ -80,8 +80,7 @@ The biggest barrier to trial is availability (24%), indicating a distribution is
   
 * **Main insight 4.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
 
-[Visualization specific to category 3]
-
+![Consumbtion](Assets/Consumbtion.jpg)
 
 ### Category 4:
 
@@ -93,7 +92,20 @@ The biggest barrier to trial is availability (24%), indicating a distribution is
   
 * **Main insight 4.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
 
-[Visualization specific to category 4]
+![Product_Development](Assets/Product_Development.jpg)
+
+
+### Category 5:
+
+* **Main insight 1.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+  
+* **Main insight 2.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+  
+* **Main insight 3.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+  
+* **Main insight 4.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+
+![Assets/Targeting_Criteria.jpg](Assets/Targeting_Criteria.jpg)
 
 
 
