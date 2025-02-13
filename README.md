@@ -59,26 +59,28 @@ The entire interactive dashboard can be found here [link]
 * **49% Tried Before (Trial).** This suggests that while awareness is decent, converting that awareness into actual product trial could be improved.
   
 * **Reasons Preventing Trying.**
-The biggest barrier to trial is availability (24%), indicating a distribution issue. Health concerns (23%) are also significant, suggesting a need for transparency about ingredients and benefits. Lack of interest in energy drinks (22%) highlights a challenge in targeting this segment. Brand awareness is another issue, with (19%) respondents unfamiliar with TurboX. Lastly, "Other" reasons (13%) need further analysis to understand additional barriers
+The biggest barrier to trial is availability (24%), indicating a distribution issue. Health concerns (23%) are also significant, suggesting a need for transparency about ingredients and benefits. Lack of interest in energy drinks (22%) highlights a challenge in targeting this segment. Brand awareness is another issue, with (19%) respondents unfamiliar with Turbo. Lastly, "Other" reasons (13%) need further analysis to understand additional barriers
   
 * **Health Concerns.**  majority of respondents have health concerns. This reinforces the importance of addressing health concerns related to energy drink consumption in marketing and communication efforts.
   
-* **Brands Popularity.** TurboX's popularity is compared to competitors like Cola-Coka, Bepsi, and Blue Bull. it comes six . This helps assess TurboX’s market position, identify gaps, and find opportunities to improve its presenc.
+* **Brands Popularity.** Turbo's popularity is compared to competitors like Cola-Coka, Bepsi, and Blue Bull. it comes six . This helps assess TurboX’s market position, identify gaps, and find opportunities to improve its presenc.
   
-* **Reasons For Choosing Brands.** Consumers choose energy drinks based on several key factors. Brand reputation (26.52%) is the top driver, meaning TurboX must build trust and a strong image. Taste (20.11%) is also crucial, so offering appealing flavors is essential. Availability (19.10%) highlights the need for better distribution. Effectiveness (17.48%) matters too—TurboX must prove it delivers energy and focus. Lastly, Other factors (16.79%) need further analysis to understand additional influences on consumer choice..
+* **Reasons For Choosing Brands.** Consumers choose energy drinks based on several key factors. Brand reputation (26.52%) is the top driver, meaning TurboX must build trust and a strong image. Taste (20.11%) is also crucial, so offering appealing flavors is essential. Availability (19.10%) highlights the need for better distribution. Effectiveness (17.48%) matters too—Turbo must prove it delivers energy and focus. Lastly, Other factors (16.79%) need further analysis to understand additional influences on consumer choice..
 
 ![Brand_Awarness](Assets/Brand_Awarness.jpg)
 
 
-### Category 3:
+### Consumer Preferences:
 
-* **Main insight 1.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+* **Average Taste Review (3 out of 5).** This indicates a moderate satisfaction with the taste suggesting potential for improvement in taste or flavor variety.
   
-* **Main insight 2.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+* **General Perception.** Turbo's perception among consumers is mixed. 29% find it effective which in younger age groups. However, 26% are unsure, indicating a need for clearer communication about its benefits. 22% see it as healthy, which is low, especially since health concerns were a major trial barrier. Alarmingly, 22% within age groups (31-45 and 46-65) have a higher perception of dangerous showing the need to address safety concerns and correct any misinformation.
   
-* **Main insight 3.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+* **Consuming Time.** Most people consume Turbo to stay awake during work or study (34%), aligning with the typical energy drink use. 31% drink it before exercise, showing potential among fitness enthusiasts. 20% use it for mental alertness, emphasizing cognitive benefits. 14% consume it throughout the day, indicating a habit-forming pattern for some users.
   
-* **Main insight 4.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+* **Consumption Situations.** Turbo is primarily consumed during sports/exercise (44.9%), making fitness enthusiasts a key audience. 32.3% drink it while studying or working, reinforcing its role in staying awake. 14.9% use it in social settings, showing some demand at parties. 3.0% consume it while driving or commuting, a smaller but notable group. 4.9% fall under "Other" situations, requiring further analysis.
+
+* **Consuming Frequency.** Turbo consumption varies, with most users drinking it rarely or 2-3 times a week. This insight is crucial for inventory management and marketing strategies, helping target occasional consumers while encouraging more frequent use.
 
 ![Consumbtion](Assets/Consumbtion.jpg)
 
