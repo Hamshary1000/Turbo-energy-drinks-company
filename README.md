@@ -33,7 +33,8 @@ Turbo survey Database structure as seen below consists of three table: city, Res
 # Executive Summary
 
 ### Overview of Findings
-Turbo's launch in Egypt is off to a decent start, with almost half (44%) of those surveyed knowing the brand already.  Most of the people who answered the survey were men (60%), so Turbo might need to find ways to connect better with women.  They seem to be doing well in the big cities like Cairo and Alexandria, where most people live, but they should think about how to reach people in other cities too.  Young adults are their main customers right now, which is normal for energy drinks, but there's a good number of slightly older folks (31-45 years old) who might also be interested.  Finally, it looks like online ads are working best for them, and since most people are buying in the 50–150-pound range, Turbo needs to keep prices reasonable
+Turbo's launch in Egypt is off to a decent start, with almost half (44%) of those surveyed knowing the brand already.  Most of the people who answered the survey were men (60%), so Turbo might need to find ways to connect better with women.  They seem to be doing well in the big cities like Cairo and Alexandria, where most people live, but they should think about how to reach people in other cities too.  Young adults are their main customers right now, which is normal for energy drinks, but there's a good number of slightly older folks (31-45 years old) who might also be interested.  Finally, it looks like online ads are working best for them, and since most people are buying in the 50–150-pound range, Turbo needs to keep prices reasonable.
+
 The entire interactive dashboard can be found here [link]
 
 ![overview](Assets/Overview.jpg)
@@ -50,18 +51,21 @@ The entire interactive dashboard can be found here [link]
   
 * **Tier.** A significant 75% of respondents are classified as Tier 2.
 
-[Visualization specific to category 1]
 
+### Brand Awareness:
 
-### Category 2:
-
-* **Main insight 1.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+* **44% Heard Before (Awareness).** This indicates moderate brand awareness. It means that 44% of the respondents have heard of the TurboX brand before.it leaves a large portion of the market unaware of the brand.
   
-* **Main insight 2.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+* **49% Tried Before (Trial).** This suggests that while awareness is decent, converting that awareness into actual product trial could be improved.
   
-* **Main insight 3.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+* **Reasons Preventing Trying.**
+The biggest barrier to trial is availability (24%), indicating a distribution issue. Health concerns (23%) are also significant, suggesting a need for transparency about ingredients and benefits. Lack of interest in energy drinks (22%) highlights a challenge in targeting this segment. Brand awareness is another issue, with (19%) respondents unfamiliar with TurboX. Lastly, "Other" reasons (13%) need further analysis to understand additional barriers
   
-* **Main insight 4.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+* **Health Concerns.**  majority of respondents have health concerns. This reinforces the importance of addressing health concerns related to energy drink consumption in marketing and communication efforts.
+  
+* **Brands Popularity.** TurboX's popularity is compared to competitors like Cola-Coka, Bepsi, and Blue Bull. it comes six . This helps assess TurboX’s market position, identify gaps, and find opportunities to improve its presenc.
+  
+* **Reasons For Choosing Brands.** Consumers choose energy drinks based on several key factors. Brand reputation (26.52%) is the top driver, meaning TurboX must build trust and a strong image. Taste (20.11%) is also crucial, so offering appealing flavors is essential. Availability (19.10%) highlights the need for better distribution. Effectiveness (17.48%) matters too—TurboX must prove it delivers energy and focus. Lastly, Other factors (16.79%) need further analysis to understand additional influences on consumer choice..
 
 [Visualization specific to category 2]
 
