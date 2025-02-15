@@ -126,15 +126,20 @@ Based on the insights and findings above, we would recommend the [stakeholder te
 
 ## What kind of marketing campaigns, offers, and discounts we can run?
   
-* Online Ads & TV Commercials Work Best. **Run platform-specific ads (TikTok for Gen Z, Instagram for 19-30, Facebook for 31-45),.
-Use gamified ad campaigns where consumers can win free Turbo cans, Sampling campaigns in gyms, offices, and universities,.
+* Online Ads & TV Commercials Work Best. **Run platform-specific ads for example (TikTok for under 18, Instagram for 19-30, Facebook for 31-45),
+Use gamified ad campaigns where consumers can win free Turbo cans, Sampling campaigns in gyms, offices, and universities,
 Strategic billboard placements outside urban centers, Localized retail partnerships (supermarkets, gas stations).
-Regional influencer marketing & sponsorships (sports, university events).
+Regional influencer marketing with giveaway samples,
 Targeted outdoor advertising in high-footfall areas.**
   
- **Loyalty rewards (Buy 5, Get 1 Free), Exclusive in-app discounts for frequent buyers, Turbo-sponsored esports & gaming nights to encourage habitual use, sponsor fitness events, football tournaments, and gyms, also  partner with tech startups, co-working spaces, and universities.**
+ **Loyalty rewards (Buy 5, Get 1 Free), Exclusive in-app discounts for frequent buyers, Turbo-sponsored esports & gaming nights to encourage habitual use, sponsor fitness events, football tournaments, and 
+ gyms, also  partner with tech startups, co-working spaces, and universities.**
 
 ## Who should be our target audience?
+
+* Retail Expansion in Key Locations. **Focus on supermarkets & convenience stores in Cairo, Alexandria, and Giza.
+Expand to smaller cities through online grocery platforms (Instashop, Talabat).
+Gas stations & vending machines for impulse purchases.**
   
 * Core Target: Young Urban Adults (15-35 years old). **University students, young professionals, and fitness enthusiasts,Primarily in Cairo, Alexandria, Giza, Mansoura, and Port Said.
 Tech-savvy, social media users,trend-driven and Balance between staying active (sports, work) and needing energy boosts.**
