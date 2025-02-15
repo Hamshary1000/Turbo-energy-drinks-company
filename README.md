@@ -114,7 +114,7 @@ The biggest barrier to trial is availability (24%), indicating a distribution is
 
 # Recommendations:
 
-Based on the insights and findings above, we would recommend the [stakeholder team] to consider the following: 
+Based on the insights and findings above, we would recommend the Marketing team to consider the following: 
 
 ## What immediate improvements can we bring to the product?
 
@@ -138,26 +138,13 @@ Targeted outdoor advertising in high-footfall areas.**
 ## Who should be our target audience?
 
 * Retail Expansion in Key Locations. **Focus on supermarkets & convenience stores in Cairo, Alexandria, and Giza.
-Expand to smaller cities through online grocery platforms (Instashop, Talabat).
+Expand to smaller cities through online grocery platforms like (Talabat, Elmenus).
 Gas stations & vending machines for impulse purchases.**
   
 * Core Target: Young Urban Adults (15-35 years old). **University students, young professionals, and fitness enthusiasts,Primarily in Cairo, Alexandria, Giza, Mansoura, and Port Said.
 Tech-savvy, social media users,trend-driven and Balance between staying active (sports, work) and needing energy boosts.**
 
-*  Niche Target: Female Consumers (18-35 years old) – Underdeveloped Market. **Young women in Cairo, Alexandria, and Mansoura.
+*  Niche Target: Female Consumers – Underdeveloped Market. **Young women in Cairo, Alexandria, and Mansoura.
 Fitness-focused, university students, and professionals.
 Many avoid energy drinks due to health concerns (sugar, ingredients.**
 
-
-  
-
-
-# Assumptions and Caveats:
-
-Throughout the analysis, multiple assumptions were made to manage challenges with the data. These assumptions and caveats are noted below:
-
-* Assumption 1 (ex: missing country records were for customers based in the US, and were re-coded to be US citizens)
-  
-* Assumption 1 (ex: data for December 2021 was missing - this was imputed using a combination of historical trends and December 2020 data)
-  
-* Assumption 1 (ex: because 3% of the refund date column contained non-sensical dates, these were excluded from the analysis)
