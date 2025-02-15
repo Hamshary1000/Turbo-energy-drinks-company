@@ -84,28 +84,29 @@ The biggest barrier to trial is availability (24%), indicating a distribution is
 
 ![Consumbtion](Assets/Consumbtion.jpg)
 
-### Category 4:
+### Product Development:
 
-* **Main insight 1.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+* **Improvements Desired.** Consumers prioritize healthier options.  30% want less sugar, making it the top desired improvement.  25% seek more natural ingredients, and 20% desire a wider range of flavors.
   
-* **Main insight 2.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+* **Ingredients Expected.**As we know caffeine increases attention and alertness, and it is often used in energy drinks. Caffeine is the most expected ingredient followed by the Vitamins in energy drinks.
   
-* **Main insight 3.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+* **Natural or Organic.** A significant portion of respondents are either interested in or open to natural/organic options, suggesting a potential market for such a product.
   
-* **Main insight 4.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+* **Packaging Preference.**Practicality and appealing design are both important. 40% prefer compact and portable cans, while 30% are drawn to innovative bottle designs.
+  
+* ** Limited Edition Interest.**Interest in limited editions varies by location. Cairo shows the strongest interest, with 11.01% saying "yes." Overall, across all cities, only about 40% said no to limited editions, leaving a significant portion open to the idea.
 
 ![Product_Development](Assets/Product_Development.jpg)
 
 
-### Category 5:
+### Targeting Criteria:
 
-* **Main insight 1.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+* **Price Range.**  Majority of customers (74%) prefer prices between 50-150, indicating a mid-range price strategy is optimal, The pricing strategy should be flexible by city—affordable pricing in smaller cities and mid-to-premium pricing in larger urban areas, We can do this by by making difffernt sizes and versions to cover a wide area of the consumers.
   
-* **Main insight 2.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+* ** Marketing Channel.** Digital marketing (online ads and TV commercials) is the best approach for younger demographics (19-20, 31-45 years old).
   
-* **Main insight 3.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+* **Purchase Location.**  Retail strategies should prioritize supermarkets and online channels, with Cairo being the primary focus.
   
-* **Main insight 4.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
 
 ![Assets/Targeting_Criteria.jpg](Assets/Targeting_Criteria.jpg)
 
