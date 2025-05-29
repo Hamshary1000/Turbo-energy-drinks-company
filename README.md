@@ -11,7 +11,7 @@ Insights and recommendations are provided on the following key areas:
 - **Brand Awareness:** percentage of heard, tried  before, reason preventing from trying, and health concerns.
 - **Competition Analysis:** other brands popularity and reasons for choosing them.
 - **Consumer Preferences:** reviews, pereception, Preferred times ,situations  and frequencies.
-- **•Product Development:** prefered improvements, ingredients expected and packaging preferences. 
+- **Product Development:** prefered improvements, ingredients expected and packaging preferences. 
 - **Targeting Criteria:** targeted price range, marketing channels and locations. 
  
 
@@ -43,13 +43,13 @@ The entire interactive dashboard can be found here [link]
 # Insights Deep Dive
 ### Demographic Insights:
 
-* **Majority Male.** Out of 10 thousand respondents, 60% of the consumers are male who prefer energy drinks more.
+* **Majority Male:** Out of 10 thousand respondents, 60% of the consumers are male who prefer energy drinks more.
   
-* **Young Adult Dominance:.** The largest age group represented is 19-30 (55%) but If we look at overall young age groups from 15 to 30, then the Percentage  will rise to 70%.
+* **Young Adult Dominance:** The largest age group represented is 19-30 (55%) but If we look at overall young age groups from 15 to 30, then the Percentage  will rise to 70%.
   
-* **Concentrated in Major Cities** The survey show us that 61% of the respondents are from big cities like Cairo, Alexandria and Giza .
+* **Concentrated in Major Cities:** The survey show us that 61% of the respondents are from big cities like Cairo, Alexandria and Giza .
   
-* **Tier.** A significant 75% of respondents are classified as Tier 2.
+* **Tier:** A significant 75% of respondents are classified as Tier 2.
 
 
 ### Brand Awareness:
@@ -103,7 +103,7 @@ The biggest barrier to trial is availability (24%), indicating a distribution is
 
 * **Price Range.**  Majority of customers (74%) prefer prices between 50-150, indicating a mid-range price strategy is optimal, The pricing strategy should be flexible by city—affordable pricing in smaller cities and mid-to-premium pricing in larger urban areas, We can do this by by making difffernt sizes and versions to cover a wide area of the consumers.
   
-* ** Marketing Channel.** Digital marketing (online ads and TV commercials) is the best approach for younger demographics (19-20, 31-45 years old).
+* **Marketing Channel.** Digital marketing (online ads and TV commercials) is the best approach for younger demographics (19-20, 31-45 years old).
   
 * **Purchase Location.**  Retail strategies should prioritize supermarkets and online channels, with Cairo being the primary focus.
   
